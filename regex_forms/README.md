@@ -1,6 +1,10 @@
-# regex_forms
+# RegEx Forms
 
-A new Flutter project.
+A little example of using RegEx forms on Flutter.
+
+<p>
+<img src="./screenshots/screenshot.png" alt="Main view" width="250">
+</p> 
 
 ## Getting Started
 
