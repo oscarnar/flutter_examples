@@ -1,0 +1,15 @@
+# ninja log v5
+0	11	1650290299	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+11	20	1650290299	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+0	12	1650299636	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+12	21	1650299636	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+0	12	1650299793	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+13	20	1650299793	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+0	40	1650307237	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+40	48	1650307237	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+0	41	1650307616	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+41	49	1650307616	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+24	68	1650323366	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+68	111	1650323366	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53
+1	44	1650401545	CMakeFiles/native_plugin.dir/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/ios/Classes/native_plugin.cpp.o	14ee61e8bfdb5583
+44	91	1650401545	/home/damon/flutter_projects/flutter_examples/native_code/little_example/build/native_plugin/intermediates/cmake/debug/obj/x86_64/libnative_plugin.so	ea6f38832ff7aa53

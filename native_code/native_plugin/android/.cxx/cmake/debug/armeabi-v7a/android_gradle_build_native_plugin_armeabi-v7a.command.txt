@@ -1,0 +1,7 @@
+Executable : /opt/android-sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/damon/flutter_projects/flutter_examples/native_code/native_plugin/android/.cxx/cmake/debug/armeabi-v7a
+native_plugin
+jvmArgs : 
+
