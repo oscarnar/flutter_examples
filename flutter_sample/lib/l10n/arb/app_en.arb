@@ -1,0 +1,11 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "pressButtonLabel": "You have pushed the button this many times:",
+    "title": "Flutter Home Page",
+    "spanish": "Spanish",
+    "english": "English",
+    "incrementTooltip": "Increment"
+}

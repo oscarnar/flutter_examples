@@ -1,0 +1,8 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "pressButtonLabel": "Has presionado el botón esta cantidad de veces:",
+    "title": "Flutter Pagina de Inicio",
+    "spanish": "Español",
+    "english": "Ingles",
+    "incrementTooltip": "Incrementar"
+}
